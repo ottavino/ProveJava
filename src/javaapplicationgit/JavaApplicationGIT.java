@@ -16,7 +16,7 @@ public class JavaApplicationGIT {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("prova variato");
+        System.out.println("prova variato 2");
     }
     
 }
